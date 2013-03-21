@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingKata.Core", "BowlingKata.Core\BowlingKata.Core.csproj", "{E81B12DF-26CD-4F90-B1D8-85FAAE457C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingKata.Tests", "BowlingKata.Tests\BowlingKata.Tests.csproj", "{6E4E2925-4D77-48F4-BED8-3816AFE7388A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81B12DF-26CD-4F90-B1D8-85FAAE457C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81B12DF-26CD-4F90-B1D8-85FAAE457C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81B12DF-26CD-4F90-B1D8-85FAAE457C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81B12DF-26CD-4F90-B1D8-85FAAE457C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4E2925-4D77-48F4-BED8-3816AFE7388A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4E2925-4D77-48F4-BED8-3816AFE7388A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4E2925-4D77-48F4-BED8-3816AFE7388A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4E2925-4D77-48F4-BED8-3816AFE7388A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
