@@ -50,6 +50,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BowlingKata.Core\BowlingKata.Core.csproj">
+      <Project>{E81B12DF-26CD-4F90-B1D8-85FAAE457C7E}</Project>
+      <Name>BowlingKata.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
